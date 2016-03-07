@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T19:56:58.988Z'
-dateModified: '2016-03-07T19:56:22.925Z'
+datePublished: '2016-03-07T20:03:02.423Z'
+dateModified: '2016-03-07T20:01:06.004Z'
 title: Overclocking an Outdated (but relevant) Graphics Card
 author: []
 sourcePath: _posts/2016-03-07-overclocking-an-outdated-but-relevant-graphics-card.md
@@ -29,13 +29,13 @@ So my daily driver is a fairly powerful but somewhat dated rig ; it runs on an i
 
 _The Speccy report for my daily driver PC that I am performing this testing on._
 
-This machine is used daily to run my business, so it needs to be stable above all else.  For this reason, the stock non-k CPU is cooled by a Corsair H110i GTX. The 7950 from XFX however, runs the company's stock 'GHOST' air cooler ([here is it's listing on Newegg][0], though it is no longer stocked).  I decided it would be worth some tinkering to see what kind of performance I could pull out of it bone stock, specifically for my current favorite time waster, Shadows of Mordor.
+This machine is used daily to run my business, so it needs to be stable above all else.  For this reason, the stock non-k CPU is cooled by a [Corsair H110i GT][0]. The 7950 from XFX however, runs the company's stock 'GHOST' air cooler ([here is it's listing on Amazon][1], though it is no longer stocked).  I decided it would be worth some tinkering to see what kind of performance I could pull out of it bone stock, specifically for my current favorite time waster, Shadows of Mordor.
 
 I normally run this game at 1080p native, in borderless mode, locked to 60 FPS with VSync on.  I turn tessellation and AA off, and crank everything else.  The game looks great to me and runs smoothly, but I do still get the occasional dip into the 40 FPS range when there's a ton of stuff going on.   This makes the fighting stutter for a brief moment, throwing me off of my rhythm, and ending up with my character taking a hit or two he shouldn't have.
 
 In the name of science, frustration, and tinker curiosity, I decided to see what I could do to push the card a wee bit farther and eliminate the occasional issues I was having.
 
-As a disclaimer, I have overclocked a few CPUs (not since the AMD Athlon era), but have never done so with a GPU.  I headed over to the[trusty reddit overclocking sub][1], and pulled up the /r/overclocking[General GPU Overclocking Guide][2]maintained by the fantastic folks of that sub.  The first things it recommends are to verify your PSU will handle the extra load (I have a Thermaltake 750W unit, so I should be fine) and to obtain both overclocking software and a good benchmark/stresstest.
+As a disclaimer, I have overclocked a few CPUs (not since the AMD Athlon era), but have never done so with a GPU.  I headed over to the[trusty reddit overclocking sub][2], and pulled up the /r/overclocking[General GPU Overclocking Guide][3]maintained by the fantastic folks of that sub.  The first things it recommends are to verify your PSU will handle the extra load (I have a Thermaltake 750W unit, so I should be fine) and to obtain both overclocking software and a good benchmark/stresstest.
 
 For simplicity's sake, I made the decision to stick with the basic Catalyst Overdrive utility, and Shadows of Mordor's built-in benchmark utility.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/490721ff-3c4c-4ceb-972c-058198bf146d.png)
@@ -72,9 +72,10 @@ Down the road I may revisit this and see what else I can do to gain a bit more p
 * Running fullscreen rather than borderless
 * Anything else I can come up with in the interim!
 
-Thanks for reading through my drivel, and feel free to subscribe to the blog, [my Facebook page][3], or leave a comment and interact with us!
+Thanks for reading through my drivel, and feel free to subscribe to the blog, [my Facebook page][4], or leave a comment and interact with us!
 
-[0]: http://www.newegg.com/Product/Product.aspx?Item=N82E16814150588
-[1]: https://www.reddit.com/r/overclocking
-[2]: https://www.reddit.com/r/overclocking/wiki/gpu/general
-[3]: https://www.facebook.com/hardwaretinker/
+[0]: http://amzn.to/1QClVIG
+[1]: http://amzn.to/1Layo6n
+[2]: https://www.reddit.com/r/overclocking
+[3]: https://www.reddit.com/r/overclocking/wiki/gpu/general
+[4]: https://www.facebook.com/hardwaretinker/
