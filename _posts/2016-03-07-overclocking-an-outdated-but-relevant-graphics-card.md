@@ -1,35 +1,35 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T19:05:34.896Z'
-dateModified: '2016-03-07T19:05:16.837Z'
+datePublished: '2016-03-07T19:56:58.988Z'
+dateModified: '2016-03-07T19:56:22.925Z'
 title: Overclocking an Outdated (but relevant) Graphics Card
 author: []
+sourcePath: _posts/2016-03-07-overclocking-an-outdated-but-relevant-graphics-card.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-07-overclocking-an-outdated-but-relevant-graphics-card.md
-published: true
 url: overclocking-an-outdated-but-relevant-graphics-card/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Overclocking an Outdated (but relevant) Graphics Card
 
 So my daily driver is a fairly powerful but somewhat dated rig ; it runs on an i7-4790, XFX R7950, and 16GB RAM in a Corsair Air 540\.  I use it for all of my daily workflow in my business, including accounting, invoicing, document creation, web design, light illustrator work, and of course the occasional gaming during downtime.  It runs four 24″ Acer 1080p monitors so I can multitask better game while working.  Aside from the motherboard, CPU, and Samsung SSD, all of the components are two years or older.  The GPU specifically has been in service since August of 2013\.
-
-This machine is used daily to run my business, so it needs to be stable above all else.  For this reason, the stock non-k CPU is cooled by a Corsair H110i GTX. The 7950 from XFX however, runs the company's stock 'GHOST' air cooler ([here is it's listing on Newegg][0], though it is no longer stocked).  I decided it would be worth some tinkering to see what kind of performance I could pull out of it bone stock, specifically for my current favorite time waster, Shadows of Mordor.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ca10768-88da-4d9a-a03f-3b8305693173.png)
 
 _The Speccy report for my daily driver PC that I am performing this testing on._
+
+This machine is used daily to run my business, so it needs to be stable above all else.  For this reason, the stock non-k CPU is cooled by a Corsair H110i GTX. The 7950 from XFX however, runs the company's stock 'GHOST' air cooler ([here is it's listing on Newegg][0], though it is no longer stocked).  I decided it would be worth some tinkering to see what kind of performance I could pull out of it bone stock, specifically for my current favorite time waster, Shadows of Mordor.
 
 I normally run this game at 1080p native, in borderless mode, locked to 60 FPS with VSync on.  I turn tessellation and AA off, and crank everything else.  The game looks great to me and runs smoothly, but I do still get the occasional dip into the 40 FPS range when there's a ton of stuff going on.   This makes the fighting stutter for a brief moment, throwing me off of my rhythm, and ending up with my character taking a hit or two he shouldn't have.
 
