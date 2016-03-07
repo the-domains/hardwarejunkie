@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Hardware Tinker]]></title>
+        <description><![CDATA[Hardware Tinker]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 07 Mar 2016 20:08:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Overclocking an Outdated (but relevant) Graphics Card]]></title>
+            <description><![CDATA[<article><h1>Overclocking an Outdated (but relevant) Graphics Card</h1><p>So my daily driver is a fairly powerful but somewhat dated rig ; it runs on an i7-4790, XFX R7950, and 16GB RAM in a Corsair Air 540.  I use it for all of my daily workflow in my business, including accounting, invoicing, document creation, web design, light illustrator work, and of course the occasional gaming during downtime.  It runs four 24″ Acer 1080p monitors so I can multitask better game while working.  Aside from the motherboard, CPU, and Samsung SSD, all of the components are two years or older.  The GPU specifically has been in service since August of 2013.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c7cce22e7a92b0ded84b72c333d32ecfe78cc2c.png"></article>]]></description>
+            <link>undefinedoverclocking-an-outdated-but-relevant-graphics-card/index.html</link>
+            <guid isPermaLink="false">96d70252-7f44-4c87-86b2-85451fe0c47f</guid>
+            <pubDate>Mon, 07 Mar 2016 20:07:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
