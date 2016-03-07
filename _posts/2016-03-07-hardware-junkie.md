@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T19:56:55.097Z'
-dateModified: '2016-03-07T19:56:45.874Z'
+datePublished: '2016-03-07T20:03:19.553Z'
+dateModified: '2016-03-07T20:03:19.053Z'
 title: Hardware Tinker
 author: []
 sourcePath: _posts/2016-03-07-hardware-junkie.md
