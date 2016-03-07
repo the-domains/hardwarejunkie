@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T20:03:02.423Z'
-dateModified: '2016-03-07T20:01:06.004Z'
+datePublished: '2016-03-07T20:07:36.833Z'
+dateModified: '2016-03-07T20:07:33.501Z'
 title: Overclocking an Outdated (but relevant) Graphics Card
 author: []
 sourcePath: _posts/2016-03-07-overclocking-an-outdated-but-relevant-graphics-card.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: overclocking-an-outdated-but-relevant-graphics-card/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Overclocking an Outdated (but relevant) Graphics Card
