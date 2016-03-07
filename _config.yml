@@ -2,6 +2,7 @@ name: hardwarejunkie
 favicon: null
 layout_spectrum: 0.66618
 typography_spectrum: 0
+title: Hardware Tinker
 cta:
   domain: null
   bucket: null
